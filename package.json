@@ -1,0 +1,13 @@
+{
+  "name": "globle-server",
+  "version": "1.0.0",
+  "description": "Multiplayer Server for Globle 3D",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
